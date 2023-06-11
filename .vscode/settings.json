@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "css.lint.unknownAtRules": "ignore",
+    "css.lint.emptyRules": "ignore",
+    "scss.lint.unknownAtRules": "ignore",
+    "scss.lint.emptyRules": "ignore",
+    "scss.validate": false,
+}
